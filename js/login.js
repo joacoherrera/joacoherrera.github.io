@@ -10,7 +10,7 @@ function login(){
         return;
         
     }else{
-        window.location.href= "./stioDePortada.html"
+        window.location.href= "./paginaPrincipal.html"
     }
 }
 function cerrarAlert(){
